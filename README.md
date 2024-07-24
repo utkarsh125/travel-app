@@ -8,4 +8,4 @@
 ```
 ### What is this project all about?
 It is a simple travel app for people who love trekking, in India **Kasol** is a popular location for one of the highest trek heights in the country. 
-![image](https://github.com/user-attachments/assets/b342df0f-daa5-4b0a-8b04-6144270056b6)
+![travel-app](https://github.com/user-attachments/assets/5613a193-4a2d-4a7f-8da1-9912d9f81eed)
